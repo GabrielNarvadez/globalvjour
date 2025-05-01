@@ -128,7 +128,7 @@ body.menuOpened .fixedHeader{
     color: #ffd667;
 }
 .home2 .logo a:hover{
-    color: #b89840;
+    color: #2e52a2;
 }
 .mainMenu{
     width: 100%;
@@ -233,7 +233,7 @@ body.menuOpened .fixedHeader{
     color: #ffd667;
 }
 .home2 .mainMenu ul li a:hover, .home2 .mainMenu ul li.active > a{
-    color: #b89840;
+    color: #2e52a2;
 }
 .mainMenu ul li ul{
     position: absolute;
@@ -381,7 +381,7 @@ body.menuOpened .sideMenuArea{
     top: 90px;
 }
 .closeBtn:hover, .closeBtn:focus{
-    color: #b89840;
+    color: #2e52a2;
 }
 
 .headerSocial{
@@ -599,7 +599,7 @@ body.menuOpened .sideMenuArea{
     content: "";
 }
 .mainSlider .tp-bullets.simplebullets.round .bullet.selected{
-    border: 2px solid #b89840;
+    border: 2px solid #2e52a2;
     background: rgba(0, 0, 0, 0);
     padding: 0px;
 }
@@ -648,7 +648,7 @@ body.menuOpened .sideMenuArea{
 }
 .slid3s h2 span{
     display: block;
-    color: #b89840;
+    color: #2e52a2;
     display: block;
     margin: 32px 0 0;
 }
@@ -797,7 +797,7 @@ body.menuOpened .sideMenuArea{
     margin-bottom: 34px;
 }
 .iconBox2 i{
-    color: #b89840;
+    color: #2e52a2;
     height: auto;
 }
 .iconBox2 h5{
@@ -824,7 +824,7 @@ body.menuOpened .sideMenuArea{
 }
 .iconBox3 i{
     font-size: 50px;
-    color: #b89840;
+    color: #2e52a2;
     display: inline-block;
     line-height: .8;
     height: 50px;
@@ -929,7 +929,7 @@ body.menuOpened .sideMenuArea{
 }
 .counters2 h2{
     font-family: Georgia;
-    color: #b89840;
+    color: #2e52a2;
     font-size: 56px;
     margin: 4px 0 23px;
 }
@@ -953,7 +953,7 @@ body.menuOpened .sideMenuArea{
     color: #000;
 }
 .counters3 h2{
-    color: #b89840;
+    color: #2e52a2;
     font-size: 56px;
     margin: 8px 0 25px;
     font-weight: 300;
@@ -983,7 +983,7 @@ body.menuOpened .sideMenuArea{
     z-index: 1;
 }
 .itemContent i{
-    color: #b89840;
+    color: #2e52a2;
     font-size: 96px;
     line-height: .8;
 }
@@ -1031,7 +1031,7 @@ body.menuOpened .sideMenuArea{
 .stellarTab li a:after{
     width: 0px;
     height: 2px;
-    background: #b89840;
+    background: #2e52a2;
     content: "";
     left: 0;
     bottom: 0;
@@ -1062,7 +1062,7 @@ body.menuOpened .sideMenuArea{
     padding: 150px 0 115px;
 }
 .whychoose2 .sectionTitle small{
-    color: #b89840;
+    color: #2e52a2;
 }
 .whychoose2 .sectionTitle{
     margin-bottom: 43px;
@@ -1295,7 +1295,7 @@ body.menuOpened .sideMenuArea{
     line-height: .8;   
 }
 .folioNav2 ul li:after{
-    background: #b89840;
+    background: #2e52a2;
 }
 .folioGrid2{
     position: relative;
@@ -1364,20 +1364,20 @@ body.menuOpened .sideMenuArea{
     color: #fff;
 }
 .fI2content h2 a:hover{
-    color: #b89840;
+    color: #2e52a2;
 }
 .fI2Cats{
     width: 100%;
     text-align: center;
     line-height: .8;
-    color: #b89840;
+    color: #2e52a2;
     font-size: 12px;
     text-transform: uppercase;
     font-weight: 700;
     margin-top: 28px;
 }
 .fI2Cats a{
-    color: #b89840;
+    color: #2e52a2;
     font-size: 12px;
     text-transform: uppercase;
     font-style: italic;
@@ -1405,10 +1405,10 @@ body.menuOpened .sideMenuArea{
     padding: 150px 0 120px;
 }
 .portfolios3 .sectionTitle small{
-    color: #b89840;
+    color: #2e52a2;
 }
 .folioNav3 ul li:after{
-    background: #b89840;
+    background: #2e52a2;
 }
 .folioNav3{
     margin-top: 48px;
@@ -1481,20 +1481,20 @@ body.menuOpened .sideMenuArea{
     color: #FFF;
 }
 .fI3content h2 a:hover{
-    color: #b89840;
+    color: #2e52a2;
 }
 .fI3Cats{
     width: 100%;
     text-align: center;
     line-height: .8;
-    color: #b89840;
+    color: #2e52a2;
     font-size: 12px;
     text-transform: uppercase;
     font-weight: 700;
     margin-top: 30px;
 }
 .fI3Cats a{
-    color: #b89840;
+    color: #2e52a2;
     font-size: 12px;
     text-transform: uppercase;
     font-style: italic;
@@ -1640,7 +1640,7 @@ body.menuOpened .sideMenuArea{
     padding: 155px 0;
 }
 .callToAction3 .sectionTitle small{
-    color: #b89840;
+    color: #2e52a2;
     margin: 0;
 }
 .callToAction3 .sectionTitle{
@@ -1659,7 +1659,7 @@ body.menuOpened .sideMenuArea{
     font-weight: 100;
 }
 .callToActionContent3 .stellarButton{
-    background: #b89840;
+    background: #2e52a2;
     color: #FFF;
     letter-spacing: 3px;
 }
@@ -1901,7 +1901,7 @@ body.menuOpened .sideMenuArea{
     margin-bottom: 123px
 }
 .teamsection .sectionTitle small{
-    color: #b89840;
+    color: #2e52a2;
 }
 .singleTeam2{
     width: 270px;
@@ -1993,7 +1993,7 @@ body.menuOpened .sideMenuArea{
     position: absolute;
 }
 .skillDetails .sectionTitle small{
-    color: #b89840;
+    color: #2e52a2;
 }
 .skillDetails .sectionTitle{
     margin-bottom: 85px;
@@ -2264,7 +2264,7 @@ body.menuOpened .sideMenuArea{
     margin-bottom: 107px;
 }
 .testimonial3 .sectionTitle small{
-    color: #b89840;
+    color: #2e52a2;
 }
 .testimonial3 .testiItem p{
     color: #000;
@@ -2273,7 +2273,7 @@ body.menuOpened .sideMenuArea{
     color: #000;
 }
 .testimonial3 .testiItem h6{
-    color: #b89840;
+    color: #2e52a2;
 }
 /*=======================================================================
 // Latest Blog
@@ -2457,7 +2457,7 @@ body.menuOpened .sideMenuArea{
     padding: 140px 0 110px;
 }
 .blogSection3 .sectionTitle small{
-    color: #b89840;
+    color: #2e52a2;
 }
 .singleBlog3{
     width: 310px;
@@ -2641,7 +2641,7 @@ body.menuOpened .sideMenuArea{
 .subsNotice i, .consNotice i{
     background: #fff none repeat scroll 0 0;
     border-radius: 50%;
-    color: #b89840;
+    color: #2e52a2;
     font-size: 60px;
     height: 109px;
     text-align: center;
@@ -2909,10 +2909,10 @@ button.submita:hover{
     background: #FFF;
 }
 .contactSection3 .sectionTitle small{
-    color: #b89840;
+    color: #2e52a2;
 }
 .sconInfo h5 i{
-    color: #b89840;
+    color: #2e52a2;
 }
 .conforms3 .submita{
     background: #b89841;
@@ -3097,7 +3097,7 @@ button.submita:hover{
     color: #FFF;
 }
 .featuredContent h2 a:hover{
-    color: #b89840;
+    color: #2e52a2;
 }
 .featuredContent .cats{
     width: 100%;
@@ -3107,7 +3107,7 @@ button.submita:hover{
     line-height: .8;
 }
 .featuredContent .cats a{
-    color: #b89840;
+    color: #2e52a2;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0;
@@ -3128,7 +3128,7 @@ button.submita:hover{
     position: relative;
 }
 .featuredContent .sbFooter a:hover{
-    color: #b89840;
+    color: #2e52a2;
 }
 .featuredContent .sbFooter a i{
     bottom: -2px;
@@ -3221,7 +3221,7 @@ button.submita:hover{
     color: #FFF;
 }
 .listHeader h1 a:hover, .blBG .listHeader h1 a:hover{
-    color: #b89840;
+    color: #2e52a2;
 }
 .bloglist .sbCats{
     font-size: 13px;
@@ -3259,7 +3259,7 @@ button.submita:hover{
     color: rgba(0, 0, 0, .5);
 }
 .bloglist .sbFooter a:hover{
-    color: #b89840;
+    color: #2e52a2;
 }
 .quotList.bloglist .sbFooter a:hover{
     color: #fff;
@@ -3303,7 +3303,7 @@ button.submita:hover{
     color: #FFF;
 }
 .videoContent h1 a:hover{
-    color: #b89840;
+    color: #2e52a2;
 }
 .videoContent .sbCats{
     padding-top: 17px;
@@ -3332,7 +3332,7 @@ button.submita:hover{
     margin:  0 0 30px;
     font-size: 14px;
     text-transform: uppercase;
-    color: #b89840;
+    color: #2e52a2;
     font-weight: 300;
     letter-spacing: 3px;
 }
@@ -3373,7 +3373,7 @@ button.submita:hover{
     width: 45px;
 }
 .socialIcons a:hover{
-    background: #b89840;
+    background: #2e52a2;
 }
 .instaFeed{
     width: 100%;
@@ -3426,7 +3426,7 @@ button.submita:hover{
     margin-top: 3px;
 }
 .singleRecent a:hover{
-    color: #b89840;
+    color: #2e52a2;
 }
 .tabclouds{
     width: 100%;
@@ -3687,7 +3687,7 @@ button.submita:hover{
     font-weight: 400;
 }
 .authInfo a:hover{
-    color: #b89840;
+    color: #2e52a2;
 }
 .singleInfos{
     width: 100%;
@@ -3708,7 +3708,7 @@ button.submita:hover{
     margin-right: 23px;
 }
 .singleInfos a:hover{
-    color: #b89840;
+    color: #2e52a2;
 }
 .singleInfos a i{
     bottom: -2px;

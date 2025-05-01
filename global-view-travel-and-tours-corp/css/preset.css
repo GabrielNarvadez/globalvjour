@@ -72,7 +72,7 @@ a:focus{
 .learnMoreButton2:after{
     width: 40px;
     height: 2px;
-    background: #b89840;
+    background: #2e52a2;
     content: "";
     left: 0;
     bottom: 0;
@@ -81,7 +81,7 @@ a:focus{
     position: absolute;
 }
 .learnMoreButton2:hover{
-    color: #b89840 !important;
+    color: #2e52a2 !important;
 }
 .learnMoreButton3{
     position: relative;
@@ -98,7 +98,7 @@ a:focus{
 .learnMoreButton3:after{
     width: 40px;
     height: 2px;
-    background: #b89840;
+    background: #2e52a2;
     content: "";
     left: 0;
     bottom: 0;
@@ -107,7 +107,7 @@ a:focus{
     position: absolute;
 }
 .learnMoreButton3:hover{
-    color: #b89840 !important;
+    color: #2e52a2 !important;
 }
 p{
     font-size: 16px;
@@ -162,7 +162,7 @@ p{
     font-weight: 100;
 }
 .biggerHeading2 span{
-    color: #b89840;
+    color: #2e52a2;
     text-transform: capitalize;
 }
 .sectionTitle2{
