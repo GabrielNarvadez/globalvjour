@@ -31,6 +31,12 @@
             <script src="js/html5shiv.js"></script>
             <script src="js/respond.min.js"></script>
         <![endif]--> 
+        
+        <style>
+            small {
+                color: #00a2be !important;
+            }
+        </style>
     </head>
     <body>
         <!-- Loader -->
@@ -65,9 +71,9 @@
                                     <li class="scroll">
                                         <a href="#missionvision">Mission/Vision</a></li>
                                     <li class="scroll">
-                                        <a href="#whatweoffer">What We Offer</a></li>
+                                        <a href="#Products">Products</a></li>
                                     <li class="scroll">
-                                        <a href="#officers">Officers</a></li>
+                                        <a href="#AccreditationMembership">Accreditation/Membership</a></li>
                                 </ul>
                                 
                             </nav>

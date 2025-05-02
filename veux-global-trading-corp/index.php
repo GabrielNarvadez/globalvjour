@@ -17,7 +17,7 @@
                          data-start="1200"
                          data-easing="Power4.easeOut">
                         <div class="slid2s">
-                            <h2>“ONE CALL...THAT’S ALL</h2>
+                            <h2>We Search & Serve “ONE CALL...THAT’S ALL</h2>
                         </div>
                     </div>
                     <div class="tp-caption sfb text-right homeOneSlider"
@@ -32,6 +32,17 @@
                             <h1>VEUX GLOBAL TRADING CORP</h1>
                         </div>
                     </div>
+                                        <div class="tp-caption sfb text-right"
+                         data-x="center"
+                         data-hoffset="0"
+                         data-y="360"
+                         data-voffset="0"
+                         data-speed="800"
+                         data-start="1200"
+                         data-easing="Power4.easeOut">
+                        <div class="slid2s">
+                            <h2>We Search & Serve “ONE CALL...THAT’S ALL</h2>
+                        </div>
                 </li>
                 <li data-transition="slotzoom-horizontal" data-slotamount="7" data-masterspeed="500" >
                     <img src="images/slide/banner-1.jpg" alt="ThemeWar Eovo" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
@@ -147,49 +158,25 @@
                                 <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
                                     <div class="iconBox iconBox2 text-left">
                                         <i class="esen-Conversation"></i>
-                                        <h5>TEAMWORK</h5>
-                                        <p>
-                                            We work together to meet our valued client’s need
- 
-                                        </p>
+                                        <h5>V - ersatile</h5>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="350ms">
                                     <div class="iconBox iconBox2 text-left">
                                         <i class="esen-Users"></i>
-                                        <h5>RESPECT</h5>
-                                        <p>
-                                            We value our people and our valued client
- 
-                                        </p>
+                                        <h5>E - nergetic</h5>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="400ms">
                                     <div class="iconBox iconBox2 text-left noMarginBottom">
                                         <i class="esen-Phone"></i>
-                                        <h5>ACCOUNTABILITY</h5>
-                                        <p>
-                                            We are accountable for delivering our commitment
-                                        </p>
+                                        <h5>U - nique</h5>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="450ms">
                                     <div class="iconBox iconBox2 text-left noMarginBottom">
                                         <i class="esen-Clock"></i>
-                                        <h5>DEDICATION</h5>
-                                        <p>
-                                            We are committed to do our best at all times
-
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
-                                    <br/><div class="iconBox iconBox2 text-left">
-                                        <i class="esen-BrowserWindow"></i>
-                                        <h5>EXCELLENCE</h5>
-                                        <p>
-                                            We provide quality products and services
-                                        </p>
+                                        <h5>X - enial</h5>
                                     </div>
                                 </div>
                             </div>
@@ -265,7 +252,7 @@ Requirements, Janitorial supplies, Corporate Giveaways, Office Supplies, Pantry 
                 </div>
                 <section class="comonSection gallery">
                     <div class="galImg">
-                        <img src="images/bg/prodbanner.jpg" alt=""/>
+                        <img src="images/gallery/banner3.png" alt=""/>
                     </div>
                 </section>
                
